@@ -1,0 +1,19 @@
+---
+permalink: /route/
+title: "Route"
+layout: single
+author_profile: true
+---
+
+Our plan is to cross Alaska following a northwest bearing, starting in Ketchikan, the Southernmost major town in Alaska, and going to Kotzebue in the Chukchi Sea! We also added a long detour loop where we go to the Arctic and come around traversing the entirety of the Brooks Range.
+
+<!-- ![If only Google could map out wilderness trips...](/assets/images/route/google_maps.jpg) -->
+
+{% capture fig_img %}
+![Foo]({{ "/assets/images/route/google_maps.jpg" | relative_url }})
+{% endcapture %}
+
+<figure>
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption>If only Google could map out wilderness trips....</figcaption>
+</figure>
