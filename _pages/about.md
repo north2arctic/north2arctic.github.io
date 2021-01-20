@@ -7,11 +7,13 @@ author_profile: true
 
 ## Who is going on this journey?
 
-Salomé is from Switzerland and moved to Seattle after meeting and falling in love with Ricardo. She is a lawyer working in an environmental organization in Seattle. She is passionate about environmental protection, human rights, women's rights, and the outdoors. Her parents took her on many day-hikes throughout her childhood, some even before she could walk. Volunteering for the Bergwaldprojekt in her mid-20s, a small non-profit in Switzerland organizing trail and forest maintenance volunteer work weeks in remote areas of the Swiss alps, she rediscovered her love for the mountains and for hiking. She started going on many multi-day backpacking trips, in the beginning in the Swiss and French Alps, later abroad in Lesotho, Tajikistan, Iceland, Madagascar and South America. Since moving to Seattle, she has enjoyed backpacking in the Cascades, the Sierras and Wind River Range as well as kayaking and paddle boarding in the Pujet Sound and the San Juan Islands.
+# Salomé
+I am a lawyer from Switzerland and moved to Seattle after meeting and falling in love with Ricardo. My parents took me on many day-hikes throughout my childhood, some even before I could walk. However, it wasn't until I volunteered for a small non-profit in a remote valled in the swiss alps building trails and doing forestry work that I rediscovered her love for mountains and for hiking, and that I realized that coming bottom of my class in sports does not have to stop me from being active and do what I love. After that, I started going on many multi-day backpacking trips, in the beginning in the Swiss and French Alps, later abroad in Lesotho, Tajikistan, Iceland, Madagascar and on a seven-month hike across the andes in South America. After moving to Seattle, I have spent many long weekends hiking and paddling in the Pacific North West and has hiked 900 miles on the PCT in California. I am passionate about environmental protection, and encouraging women to to on bigger outdoorsy adventures. I love exploring remote, very little travelled areas of our wonderful planet on foot.
 
-Ricardo is from Spain but has been living in Seattle for over 10 years now. He is a researcher in computer science---
+# Ricardo 
+I am a researcher in computer science from Spain but has been living in Seattle for over 10 years now...
 
-We met in Patagonia over 5 years ago. As our first vacaiton together, we crossed Iceland from the north to the south, a journey that brought us closer together. We have since explored the West Coast backpacking, kayaking and backcountry skiing and look forward to our next big adventure.
+We met in Patagonia over 5 years ago. As our first vacaiton together, we crossed Iceland from the north to the south, a journey that confirmed our love for eachother. We have since gone on many adventures otgether, in the US and abroad, backpacking, kayaking and backcountry skiing 
 
 ## Why are we going on this journey?
 
