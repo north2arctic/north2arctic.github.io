@@ -19,7 +19,7 @@ Our journey can be split into six different sections:
 
 2. Lost Coast: We will walk along the coast from Juneau to the Copper River delta. We will walk on isolated and windswept beaches alongside the Malaspina and Bering Glacier, and cross large bays in our packrafts.
 
-3. Copper River Upstream: Like the salmons spawning, we will try to make our way up the copper river to Chitina, head to McCarthy, cross the Wrangell Mountain range through via the  the Chistone Pass and finally reach Slana. We look forward going to McCarthy again, of which we have such fond memories (see here our slide deck from our previous alaskan backpacking adventure that inspired us to return to this wonderful and wild state).
+3. Copper River Upstream: Like the salmons migrating upstream, we will try to make our way up the copper river to Chitina, head to McCarthy, cross the Wrangell Mountain range through via the  the Chistone Pass and finally reach Slana. We look forward going to McCarthy again, of which we have such fond memories (see here our slide deck from our previous alaskan backpacking adventure that inspired us to return to this wonderful and wild state).
 
 4. Alaska Range: From Slana we will head into the Alaska Range and cross its eastern section until we reach the Little Delta River which we will float down to the Tanana River and which will take us to Fairbanks. Fairbanks is the only larger city we will cross on our entire journey.
 
