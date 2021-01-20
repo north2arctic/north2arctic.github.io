@@ -15,7 +15,7 @@ We expect our journey to take around 6 months. We will leave our home, Seattle, 
 ## Sections
 Our journey can be split into six different sections:
 
-### Inside Passage (270 miles)
+### Inside Passage (336 miles)
 ![](/assets/images/route/00_section.jpg){: .align-left}
 We will paddle and walk the inside passage from Ketchikan to Juneau with our packrafts. We hope to experience some of its abundant wildlife and camp on many uninhabited small islands. Maybe Ricardo will finally get to paddle along Orcas, the reason why he wanted to get into sea kayaking.
 
