@@ -17,7 +17,7 @@ We met in Patagonia over 5 years ago. As our first vacaiton together, we crossed
 
 ## Why are we going on this journey?
 
-We are excited to do a long wilderness trip together! It has beeen a dream for both of us since before we met and has become a joint dream since. We have both gone on many wilderness adventures before, some together, and some by ourselves - but nothing on this scale. We backpacked across Alaska's Wrangell - St. Elias National Park in 2019 and cambe back home with the dream of returning to Alaska! Although initially we had planned to hike the Andes through the Greater Patagonia Trail, COVID changed plans and instead we stared looking for an adventure closer to our home, Seattle. 
+We are excited to do a long wilderness trip together! It has beeen a dream for both of us since before we met and has become a joint dream since. We have both gone on many wilderness adventures before, some together, and some by ourselves - but nothing on this scale. We backpacked across Alaska's Wrangell - St. Elias National Park in 2019 and came back home with the dream of returning to Alaska!  
 
 ## Are we prepared?
 
@@ -31,4 +31,4 @@ Definitely. Many native americans, goldminers, and early-day explorers walked an
 - Caroline Van Hemert and Patrick Farrell's 4000-mile journey from Bellingham to the Arctic ([book](https://www.carolinevanhemert.com/book))
 - Andrew Skurka's Alaska-Yukon Expedition ([report](https://andrewskurka.com/adventures/alaska-yukon-expedition/))
 
-We are not hoping to best them in any way, but instead are inspired by their journeys, and look forward to our own version of wilderness adventure.
+We are not hoping to best them in any way, but instead are inspired by their journeys, and look forward to our own version adventure.
