@@ -11,9 +11,13 @@ author_profile: true
 I am a lawyer from Switzerland and moved to Seattle after meeting and falling in love with Ricardo. My parents took me on many day-hikes throughout my childhood, some even before I could walk. However, it wasn't until I volunteered for a small non-profit in a remote valled in the swiss alps building trails and doing forestry work that I rediscovered her love for mountains and for hiking, and that I realized that coming bottom of my class in sports does not have to stop me from being active and do what I love. After that, I started going on many multi-day backpacking trips, in the beginning in the Swiss and French Alps, later abroad in Lesotho, Tajikistan, Iceland, Madagascar and on a seven-month hike across the andes in South America. After moving to Seattle, I have spent many long weekends hiking and paddling in the Pacific North West and has hiked 900 miles on the PCT in California. I am passionate about environmental protection, and encouraging women to to on bigger outdoorsy adventures. I love exploring remote, very little travelled areas of our wonderful planet on foot.
 
 ### Ricardo 
-I am a researcher in computer science from Spain but has been living in Seattle for over 10 years now...
+I am from Madrid, Spain but have been living in Seattle since 2010. I moved to Seattle for my PhD in Computer Science and during that time I got to really love the outdoors. Before that, I really enjoyed traveling during my undergraduate years in Europe, including an Eurorail trip in Eastern Europe and trips for competitions all around the world. Between undergrad and grad, I spent 5 months traveling the world, including a 850 mile bicycle ride around New Zealand and outworldly experiences in Vanuatu. As I settled in Seattle, I was able to pursue my dream of learning how to drive and buying a car (not that common in Spain!). In rapid succession, I learned how to (heavy) powder skiing, backcountry skiing, and mountaineering. Unfortunately, the new adventures brought a series of injuries, including an ACL tear that wore off my unhealthy obsession with skiing. Next, I picked up backpacking, and started enjoying the Cascades. My next big adventure took me to a week-long hike in Torres del Paine where I met Salomé.
 
-We met in Patagonia over 5 years ago. As our first vacaiton together, we crossed Iceland from the north to the south, a journey that confirmed our love for eachother. We have since gone on many adventures otgether, in the US and abroad, backpacking, kayaking and backcountry skiing 
+I am currently a researcher at Google working on the future of communication, and my biggest passion is making pretty pictures that tell a story. You can read more about my work [here](http://ricardomartinbrualla.com).
+
+### Us
+
+We met in Patagonia over 5 years ago. As our first vacation together, we crossed Iceland from North to South, a journey that confirmed our love for each other. We have since gone on many adventures together, in the US and abroad, backpacking, kayaking and backcountry skiing.
 
 ## Why are we going on this journey?
 

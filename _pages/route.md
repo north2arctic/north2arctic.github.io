@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Our Journey
-Our 3000 mile, human-powered journey will take us  across some of the wildest parts of this planet: Alaska. We are attempting to cross Alaska from its south-east corner, Ketchikan, all the way to the Beaufort Sea in the Arctic, to the north-west, Kotzebue. For most of our route, there are no trails, no roads, no huts, no cellphone coverage, and hardly any infrastructure we can rely on. We will depend entirely on each other, our tent to keep us sheltered at night, and our arms and legs to keep us moving towards our goal, Kotzebue. We will travel on foot and with packrafts, a small inflatable kayak, to take us across lakes and ocean straights, and to float down rivers. 
+Our 2800 mile, human-powered journey will take us across some of the wildest parts of this planet: Alaska. We are attempting to cross Alaska from its south-east corner, Ketchikan, all the way to the Beaufort Sea in the Arctic, to the north-west, Kotzebue. For most of our route, there are no trails, no roads, no huts, no cellphone coverage, and hardly any infrastructure we can rely on. We will depend entirely on each other, our tent to keep us sheltered at night, and our arms and legs to keep us moving towards our goal, Kotzebue. We will travel on foot and with packrafts, a small inflatable kayak, to take us across lakes and ocean straights, and to float down rivers. 
  
 {% include figure image_path="/assets/images/route/google_maps.jpg" caption="If only Google could map out wilderness trips..." %}
  
