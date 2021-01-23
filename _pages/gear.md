@@ -14,11 +14,9 @@ sliders:
     settings:
       # height: "'auto'"
       # effect: "'fade'"
-
+      # {% include slider.html selector="example_slider" %}
 ---
 
 We are planning on taking a ton of gear. We plan to document it to the last gram in this page as soon as possible.
 
 
-<!-- {% include slider.html selector="example_slider" %}
- -->
