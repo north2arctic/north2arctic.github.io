@@ -6,6 +6,6 @@ We are going to Alaska for a 6-month, human-powered adventure that will take us 
 
 We have been dreaming of doing a crazy big adventure for several years, and we are finally pulling the plug. This was an extra hard decision, due to the covid-19 pandemic. We hope that the remoteness of the places we will travel won't put ourselves or others at risk. 
 
-We plan to share our experience on this website, including documenting the route planning process, our gear selection and more. We will also set up social media accounts to make it simpler to follow our steps. We are leaving at the end of March, taking the Alaska State Ferry from Bellingham to Ketchikan. Stay tuned for more info!
+We plan to share our experience on this website, including documenting the route planning process, our gear selection and more. We will also set up social media accounts to make it simpler to follow our steps. We are leaving at the end of March, taking the Alaska State Ferry from Bellingham to Ketchikan. Stay tuned!
 
 ![A map of our trip -- Seattle is on the bottom right for reference!](/assets/images/route/google_earth_map.jpg)
