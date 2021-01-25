@@ -9,3 +9,5 @@ We have been dreaming of doing a crazy big adventure for several years, and we a
 We plan to share our experience on this website, including documenting the route planning process, our gear selection and more. We will also set up social media accounts to make it simpler to follow our steps. We are leaving at the end of March, taking the Alaska State Ferry from Bellingham to Ketchikan. Stay tuned!
 
 ![A map of our trip -- Seattle is on the bottom right for reference!](/assets/images/route/google_earth_map.jpg)
+
+Test.
