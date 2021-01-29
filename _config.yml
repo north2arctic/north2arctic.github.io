@@ -48,8 +48,8 @@ comments:
     # endpoint             : "https://north2arctic-staticman-master.herokuapp.com/v3/entry/north2arctic/north2arctic.github.io/master/comments"
     endpoint             : "https://north2arctic-staticman-master2.herokuapp.com/v2/entry/"
 reCaptcha:
-  siteKey                :
-  secret                 :
+  siteKey                : "6Le4BEEaAAAAANj_N8ngM5kUZBAXZaYOs5ltaT-n"
+  secret                 : "LoKtCtZuTHEUrMIdg/STXxcQ93FnxLPrOANAEVwJc0cmjqDkvcez1xbyi47pwAMDl5ib3LDRjiNKPv0LJAWxV6OBBqoj1Om+p6zGim20akxA/aBVrwGlZbxYH/7qacqNTepRbOfBfUNbbrwZsXCeiRGVJ2vecmeJROhLDpt3x45GKfED2hYaS459naCZZ2pfkP5yrKRRLt8VWZZzMyhNhE2Y8mmbLY1VFE/IZxhXDCaeY6Thc7tR3Bn5UmsaDfejpYu+KXFsnb4qu0LP2MTaFmH+1IOPlwbrU0oq8aiqTCLwlK2xWWT0kRJkwsnVbYL3rGWy+rjkirAsbEFEVSc7sefO16kecTWN4MQ5SUakhOCQCkSWrKskhKGQpj3n1NQHVR93gKqWZMkr+kFFxZvhSLsbq5muc+ofYtrSyfLbgFxAY3jw3fpyGTIENIlJ21cxxgGM6ypSEDEp070nGlmQx6fm1APCuU+xZEHlVH89VAVzyuRyVwibI5CJC6vPCm6PTPs4lpVEYcGJI3qmhTcbN0odaZvwqC+zqS9O9UubjjKz8QLmRVGecu4Us4vKV4LCt2GeB51ItAcmJd3pmlR8PKzcJ+zd3vAITpIE6KHaOCd5oUAeNScYEDi6VylmW8MCR0jtCOgQJHGwAhs+p9Mmrs14zl84hxzr9GAPAltk6XY="
 atom_feed:
   path                   : # blank (default) uses feed.xml
 search                   : # true, false (default)
