@@ -10,7 +10,7 @@ Our 2800 mile, human-powered journey will take us across some of the wildest par
  
 {% include figure image_path="/assets/images/route/google_maps.jpg" caption="If only Google could map out wilderness trips..." %}
  
-We expect our journey to take around 6 months. We will leave our home, Seattle, on March 26, 2020 via ferry from Bellingham in Washington State to Ketchikan, our starting point, and hope to reach Kotzebue by the end of September, before the winter reaches the Arctic.
+We expect our journey to take around 6 months. We will leave our home, Seattle, on March 26, 2021 via ferry from Bellingham in Washington State to Ketchikan, our starting point, and hope to reach Kotzebue by the end of September, before the winter reaches the Arctic.
  
 ## Sections
 Our journey can be split into six different sections:
