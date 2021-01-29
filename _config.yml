@@ -46,7 +46,7 @@ comments:
   staticman:
     branch               : "master"
     # endpoint             : "https://north2arctic-staticman-master.herokuapp.com/v3/entry/north2arctic/north2arctic.github.io/master/comments"
-    endpoint             : "https://north2arctic-staticman-master.herokuapp.com/v3/entry/github/"
+    endpoint             : "http://north2arctic-staticman-master2.herokuapp.com/v2/entry/"
 reCaptcha:
   siteKey                :
   secret                 :
@@ -203,7 +203,7 @@ kramdown:
 # Sass/SCSS
 sass:
   sass_dir: _sass
-  style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+  style: # compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
 
 # Outputting
@@ -261,10 +261,10 @@ tag_archive:
 
 # HTML Compression
 # - https://jch.penibelst.de/
-compress_html:
-  clippings: all
-  ignore:
-    envs: development
+# compress_html:
+# clippings: all
+#  ignore:
+#    envs: development
 
 
 # Defaults

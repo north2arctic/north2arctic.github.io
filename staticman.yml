@@ -17,7 +17,7 @@ comments:
   # When allowedOrigins is defined, only requests sent from one of the domains
   # listed will be accepted. The origin is sent as part as the `options` object
   # (e.g. <input name="options[origin]" value="http://yourdomain.com/post1")
-  # allowedOrigins: ["yourdomain.com"]
+  allowedOrigins: ["north2arctic.github.io"]
 
   # (*) REQUIRED
   #
@@ -49,7 +49,7 @@ comments:
   # Whether entries need to be approved before they are published to the main
   # branch. If set to `true`, a pull request will be created for your approval.
   # Otherwise, entries will be published to the main branch automatically.
-  moderation: true
+  moderation: false
 
   # Akismet spam detection.
   # akismet:
@@ -98,8 +98,8 @@ comments:
   # Register your domain at https://www.google.com/recaptcha/ and choose reCAPTCHA V2
   reCaptcha:
     enabled: true
-    siteKey: "6LcrVDsaAAAAAGmqkswlvqI6uzN5kZPfgPCw5hua"
+    siteKey: "6Le4BEEaAAAAANj_N8ngM5kUZBAXZaYOs5ltaT-n"
     # Encrypt reCaptcha secret key using Staticman /encrypt endpoint
     # For more information, https://staticman.net/docs/encryption
     # ENCRYPTED
-    secret: "whiQuWyacNZ4Ho1Kgb4c6qClive/Me2+xxYFtDRphAcglkO/u9TgdHG2iF0TvL8YdDztKhzz883X5lK0yZO5D6V0LrnhWHafO9pEvl4MACN6E1KveTaaEMGws5SojZMQn/UgR838fraFp9r0TZwc5jWkJi2UBx7YWdI3vQ29FmFKB5En43mBe4JmOFFz950L3jIxl8c5HUAg8Vujq7kmO6/PdF5LH/oS2B0v+U8pERnyFd9/FfpgNzK6rgSMqEgBQeqI6Zbbh/7bss6ZIvbN1WrE03moFz5FfZBAdu8PIZDIOootRTri02hPwlhPR0Rb11DbtJZLAaYpaTb/vhiLbrkZLKP4MGHgQRzMHDW5f+wmsv14hA8EcD2B7EGtCTzIDaV1Q2I9tpRhmccm3xhxmS8Nr4kxR0rWHhCcUiQTueO1MjxxN8ql3Zh1aK9gpkBgpnrdo3Iv64UWR0Fv55k7eNitpssx5dTbalwqTQnIydarzqLAcQh2yhacDBvQSxATYthdfObbpJyImaYhVuC4susXPn/t2De2Rg+ksFvFSBJqKbOS4oxK0IGoTh7wVWl4uu2VHAMNRZORD9GFp3kVoiRXIuTkXaU5qviSSk94jTUj0gaLQZTGctjtncyGn7nqGrWZJaGgCfxpsEqRYDvlJe4d6R2KwnEOG3uhP4hjUYA="
+    secret: "LoKtCtZuTHEUrMIdg/STXxcQ93FnxLPrOANAEVwJc0cmjqDkvcez1xbyi47pwAMDl5ib3LDRjiNKPv0LJAWxV6OBBqoj1Om+p6zGim20akxA/aBVrwGlZbxYH/7qacqNTepRbOfBfUNbbrwZsXCeiRGVJ2vecmeJROhLDpt3x45GKfED2hYaS459naCZZ2pfkP5yrKRRLt8VWZZzMyhNhE2Y8mmbLY1VFE/IZxhXDCaeY6Thc7tR3Bn5UmsaDfejpYu+KXFsnb4qu0LP2MTaFmH+1IOPlwbrU0oq8aiqTCLwlK2xWWT0kRJkwsnVbYL3rGWy+rjkirAsbEFEVSc7sefO16kecTWN4MQ5SUakhOCQCkSWrKskhKGQpj3n1NQHVR93gKqWZMkr+kFFxZvhSLsbq5muc+ofYtrSyfLbgFxAY3jw3fpyGTIENIlJ21cxxgGM6ypSEDEp070nGlmQx6fm1APCuU+xZEHlVH89VAVzyuRyVwibI5CJC6vPCm6PTPs4lpVEYcGJI3qmhTcbN0odaZvwqC+zqS9O9UubjjKz8QLmRVGecu4Us4vKV4LCt2GeB51ItAcmJd3pmlR8PKzcJ+zd3vAITpIE6KHaOCd5oUAeNScYEDi6VylmW8MCR0jtCOgQJHGwAhs+p9Mmrs14zl84hxzr9GAPAltk6XY="
