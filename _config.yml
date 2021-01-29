@@ -46,7 +46,7 @@ comments:
   staticman:
     branch               : "master"
     # endpoint             : "https://north2arctic-staticman-master.herokuapp.com/v3/entry/north2arctic/north2arctic.github.io/master/comments"
-    endpoint             : "http://north2arctic-staticman-master2.herokuapp.com/v2/entry/"
+    endpoint             : "https://north2arctic-staticman-master2.herokuapp.com/v2/entry/"
 reCaptcha:
   siteKey                :
   secret                 :
