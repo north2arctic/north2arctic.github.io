@@ -282,6 +282,7 @@ defaults:
       comments: true
       share: # true
       related: # true
+      includes_sliders: true
       tagline: "(Mis)adventures in Alaska"
       # header:
       #   overlay_color: "#000"

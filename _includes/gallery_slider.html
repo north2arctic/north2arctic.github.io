@@ -1,0 +1,15 @@
+<section>
+{%- capture slider_id -%}{{ include.name | replace: "/", "_" }}{%- endcapture -%}
+<div id="{{slider_id}}" type="gallery_slider">
+{%- assign gallery_path = "galleries/" | append: include.name -%} 
+{{gallery_path}}
+{%- assign image_count=0 -%}
+{%- for image in site.static_files -%}
+    {%- if image.path contains gallery_path -%}
+	    <img data-src="{{ image.path | relative_url }}" {% if image_count < 1 -%}src="{{ image.path | relative_url }}" {%- endif -%}>
+	    {% assign image_count = image_count | plus: 1 %}
+
+    {%- endif -%}
+{% endfor -%}
+</div>
+</section>
