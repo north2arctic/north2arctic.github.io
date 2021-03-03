@@ -31,7 +31,7 @@ Probably not! But will we ever be? We have a lot of long-distance backpacking ex
 
 Definitely. Many native americans, goldminers, and early-day explorers walked and paddled through Alaska and experienced harsh conditions many years before our modern, light-weight equipment. Most recently, several adventurers have crossed Alaska:
 
-- Dick Griffith's multiple trips criss-crossing Alaska ([book](http://www.http://www.canyonsandice.com/))
+- Dick Griffith's numerous expeditions criss-crossing Alaska ([book](http://www.http://www.canyonsandice.com/))
 - Erin McKittick and Bretwood Higman's year-long journey from Seattle to the Aleutian Islands ([book](http://www.groundtruthtrekking.org/Book/))
 - Caroline Van Hemert and Patrick Farrell's 4000-mile journey from Bellingham to the Arctic ([book](https://www.carolinevanhemert.com/book))
 - Andrew Skurka's Alaska-Yukon Expedition ([report](https://andrewskurka.com/adventures/alaska-yukon-expedition/))
