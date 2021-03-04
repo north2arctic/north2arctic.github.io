@@ -10,10 +10,7 @@ main:
     url: /route/
   - title: "Gear"
     url: /gear/
+  # - title: "Thanks"
+  #   url: /thankyou/
   - title: "About"
     url: /about/
-
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
