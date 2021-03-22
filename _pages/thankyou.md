@@ -35,7 +35,7 @@ The logistics of such a trip are quite complex, and we couldn't do it without ma
 - Serefhan Yas, our wonderful friend who will keep an eye on our house while we are away.
 - Jason Semler, the owner of the [Alaska Expedition Lodge](http://www.alaskaexpedition.com) , who has gone above and beyond to help us have food shipped to his lodge before he opens it.
 
-We also thank Eric and Bea Stollnitz, creators of [Pixelicious Planet](https://www.pixeliciousplanet.com/) for discuss photography options with us.
+We also thank Eric and Bea Stollnitz, creators of [Pixelicious Planet](https://www.pixeliciousplanet.com/), for discussing photography options with us.
 
 
 We would also like to thank our families and friends for still meeting us even though all we could talk about was how we count calories, small details about the route, or detailed considerations about gear. Without your mental support this journey would be so much harder!
