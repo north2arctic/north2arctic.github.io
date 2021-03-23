@@ -3,18 +3,6 @@ permalink: /thankyou/
 title: "Thanks"
 layout: single
 author_profile: true
-sliders:
-  - selector: "example_slider"
-    captions: false
-    images:
-      - src: /assets/images/route/google_maps.jpg
-        alt: "our route"
-      - src: /assets/images/splash-photo.jpg
-        alt: "Nice photo."
-    settings:
-      # height: "'auto'"
-      # effect: "'fade'"
-      # {% include slider.html selector="example_slider" %}
 ---
 
 We would like to thank the many people that have helped us without their support and help, this expedition would not be possible.
