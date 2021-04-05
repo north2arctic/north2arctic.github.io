@@ -69,7 +69,7 @@ Walking on the road towards the start of the wilderness.
 <figure>
         <img src="/assets/images/04-04/perfect.jpg">
         <figcaption>
-        Paddling in the Behm canal under perfect conditions. A few minutes earlier an orca swam by us.
+        Paddling in the Behm canal in perfect conditions. A few minutes earlier an orca swam by us.
         </figcaption>
     </figure>
     
