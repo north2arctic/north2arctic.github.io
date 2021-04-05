@@ -58,10 +58,18 @@ Walking on the road towards the start of the wilderness.
         </figcaption>
     </figure>
     
+    
 <figure>
         <img src="/assets/images/04-04/everything.jpg">
         <figcaption>
         Wearing all our layers to paddle: two base layers, one synthetic, and one (Ricardo) or two (Salome) down layers, a dry suit and a rain jacket.
+        </figcaption>
+    </figure>
+    
+<figure>
+        <img src="/assets/images/04-04/perfect.jpg">
+        <figcaption>
+        Paddling in the Behm canal under perfect conditions. A few minutes earlier an orca swam by us.
         </figcaption>
     </figure>
     
