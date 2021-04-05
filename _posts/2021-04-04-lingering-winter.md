@@ -16,63 +16,63 @@ How do we feel? It was not easy to backtrack so early in our journey but we cons
 
 We are now on the ferry to Wrangell from where we’ll resume our journey. Funnily enough, it’s the same sailing what we tried to get on 10 days ago in Bellingham. We are also thinking how we can complete the 50 miles we skipped once we are done in the Arctic in September. But first we have a lot of miles ahead of us.
 
-    <figure>
+<figure>
         <img src="/assets/images/04-04/walmart.jpg">
         <figcaption>
         As we flew into Alaska, we had to buy bear spray and fuel again. Our packs were so heavy that the carts at Walmart felt like a vacation for our shoulders.
         </figcaption>
     </figure>
     
-        <figure>
+<figure>
         <img src="/assets/images/04-04/road.jpg">
         <figcaption>
 Walking on the road towards the start of the wilderness.
         </figcaption>
     </figure>
     
-        <figure>
+<figure>
         <img src="/assets/images/04-04/camp.jpg">
         <figcaption>
         Our camp the first night, we are still figuring out how to pitch the pyramid shelter to not get condensation.
         </figcaption>
     </figure>
     
-    <figure>
+<figure>
         <img src="/assets/images/04-04/wolf.jpg">
         <figcaption>
         Massive wolf print.
         </figcaption>
     </figure>
     
-        <figure>
+<figure>
         <img src="/assets/images/04-04/launching.jpg">
         <figcaption>
         Launching on grassy beach.
         </figcaption>
     </figure>
     
-        <figure>
+<figure>
         <img src="/assets/images/04-04/pool.jpg">
         <figcaption>
         Finally blue skies!
         </figcaption>
     </figure>
     
-        <figure>
+<figure>
         <img src="/assets/images/04-04/everything.jpg">
         <figcaption>
         Wearing all our layers to paddle: two base layers, one synthetic, and one (Ricardo) or two (Salome) down layers, a dry suit and a rain jacket.
         </figcaption>
     </figure>
     
-        <figure>
+<figure>
         <img src="/assets/images/04-04/shack.jpg">
         <figcaption>
         Maintenance shack on a floating pier where we spent two nights, littered with mussels and half eaten crabs brought in by a mink.
         </figcaption>
     </figure>
     
-        <figure>
+<figure>
         <img src="/assets/images/04-04/crack.jpg">
         <figcaption>
         The salt water bay where we stayed froze over both nights, note the boat below for scale.
@@ -80,7 +80,7 @@ Walking on the road towards the start of the wilderness.
     </figure>
     
     
-        <figure>
+<figure>
         <img src="/assets/images/04-04/breakfast.jpg">
         <figcaption>
         Eating breakfast while watching the ice after the storm has passed by.
