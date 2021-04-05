@@ -37,6 +37,13 @@ Walking on the road towards the start of the wilderness.
         </figcaption>
     </figure>
     
+    <figure>
+        <img src="/assets/images/04-04/wolf.jpg">
+        <figcaption>
+        Massive wolf print.
+        </figcaption>
+    </figure>
+    
         <figure>
         <img src="/assets/images/04-04/launching.jpg">
         <figcaption>
