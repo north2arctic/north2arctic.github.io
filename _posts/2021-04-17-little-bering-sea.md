@@ -33,7 +33,7 @@ Reflecting back on this leg, we keep learning a lot about ourselves and the rhyt
 <figure>
     <img src="/assets/images/04-17/launch.jpg">
     <figcaption>
-Thomas and Jeff drove us to the launch site, and they to this rare photo of both of us together.
+Thomas and Jeff drove us to the launch site, and they took this rare photo of both of us together.
     </figcaption>
 </figure>
 
