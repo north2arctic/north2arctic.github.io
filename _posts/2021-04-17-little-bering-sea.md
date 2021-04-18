@@ -75,7 +75,7 @@ Pretty sky as the weather gets better.
 <figure>
     <img src="/assets/images/04-17/stream.jpg">
     <figcaption>
-The gravel and rocky beaches are oxygen crossed by small streams.
+The gravel and rocky beaches are often crossed by small streams.
     </figcaption>
 </figure>
 
@@ -110,7 +110,7 @@ Waiting for the wind to die. We first went to the opposite side off the cape to 
 <figure>
     <img src="/assets/images/04-17/cape.jpg">
     <figcaption>
-Cape Fanshaw from above. There is a weather station and webcam.
+Cape Fanshaw from above. There is a weather station and a webcam.
     </figcaption>
 </figure>
 
