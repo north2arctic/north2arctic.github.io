@@ -145,7 +145,7 @@ Open water crossing to the Five Finger Lighthouse in calm seas.
 <figure>
     <img src="/assets/images/04-17/lighthouse.jpg">
     <figcaption>
-Five Finger Lighthouse and its beautiful Art Deco style. we are drying our gear on the lawn.
+Five Finger Lighthouse and its beautiful Art Deco style. We are drying our gear on the lawn.
     </figcaption>
 </figure>
 
