@@ -55,7 +55,7 @@ Stephens Passage from Price Island. Can you set the lighthouse?
 </figure>
 
 <figure>
-    <img src="/assets/images/04-25/reflections.jpeg">
+    <img src="/assets/images/04-25/reflection.jpeg">
     <figcaption>
 Paddling can be amazing at times.
     </figcaption>
@@ -64,7 +64,7 @@ Paddling can be amazing at times.
 <figure>
     <img src="/assets/images/04-25/beach.jpeg">
     <figcaption>
-Walking on the beach for miles, we stepped in so many puddles and crushed myriad mussels with our weight.
+Walking on the beach for miles, we stepped into so many puddles and crushed myriad mussels with our weight.
     </figcaption>
 </figure>
 
@@ -85,7 +85,7 @@ Cooking on the beach using a fire, it works pretty well with our stove!
 <figure>
     <img src="/assets/images/04-25/track.jpeg">
     <figcaption>
-Sometimes it is way to follow animal tracks! We often lose then in the forest when we encounter downed wood.
+Sometimes it is easy to follow animal tracks! We often lose them in the forest when we encounter downed wood.
     </figcaption>
 </figure>
 
