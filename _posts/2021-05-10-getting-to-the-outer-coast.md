@@ -107,5 +107,3 @@ We went to this gully, which was super tricky to top out, and we had to downclim
     </figcaption>
 </figure>
 
-
-
