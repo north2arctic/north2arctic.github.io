@@ -40,28 +40,28 @@ We realized we we're getting close to the open ocean once we started setting the
 <figure>
     <img src="/assets/images/05-10/wetlands.jpeg">
     <figcaption>
-A flat partially forested area in the map ended up being a huge marsh, where it was very tricky to camp! We would have been better if we had continued paddling.
+A flat partially forested area in the map ended up being a huge marsh, where it was very tricky to camp! We would have been better off if we had continued paddling.
     </figcaption>
 </figure>
 
 <figure>
     <img src="/assets/images/05-10/paddle.jpeg">
     <figcaption>
-When we reached the Brady Glacier, its lateral moraine had formed a lake in which we could paddle upstream. Unfortunately the lake was still mostly frozen and wet had to transition to walking shortly after.
+When we reached the Brady Glacier, its lateral moraine had formed a lake in which we could paddle upstream. Unfortunately the lake was still mostly frozen and we had to transition to walking shortly after.
     </figcaption>
 </figure>
 
 <figure>
     <img src="/assets/images/05-10/camp.jpeg">
     <figcaption>
-Walking on snow was very style and we needed you come up with a plan. We stopped early and tried to build snowshoes. We also tried to dry the sleeping when sun came out for a few minutes.
+Walking on snow was very tiring and we needed to come up with a plan. We stopped early and tried to build snowshoes. We also tried to dry the sleeping when sun came out for a few minutes.
     </figcaption>
 </figure>
 
 <figure>
     <img src="/assets/images/05-10/snowshoes2.jpeg">
     <figcaption>
-Our willow-made snowshoes worked out well for Salomé, but Ricardo's were too small and he continued to posthole. We has already decided to turn around, but Salomé continued using hers until they fully broke down.
+Our willow-made snowshoes worked out well for Salomé, but Ricardo's were too small and he continued to posthole. We had already decided to turn around, but Salomé continued using hers until they fully came apart.
     </figcaption>
 </figure>
 
@@ -96,7 +96,7 @@ We had to cross huge talus fields -- not particularly fun.
 <figure>
     <img src="/assets/images/05-10/cliff.jpeg">
     <figcaption>
-We went to this gully, which was super tricky to top out, and we had to downclimb the next mining. In the far one can se the Boussole Arch.
+We climbed up this gully, which was super tricky to top out, and we had to downclimb the next morning. In the far one can see the Boussole Arch.
     </figcaption>
 </figure>
 
