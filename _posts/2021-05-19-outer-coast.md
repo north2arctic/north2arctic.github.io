@@ -21,10 +21,6 @@ We got into Yakutat 2 days ago. Our first shower and meal felt amazing. But even
 Our next section is even longer, and it will take us more than 2 weeks to get to Cordova. Luckily, we were able to send a small resupply to a lodge by the Tsiu River, 12 days away from Yakutat, so our packs shouldn’t be as heavy.
 
 
-Photos to come very soon.
-
-
-
 <figure>
     <img src="/assets/images/05-19/laperouse.jpeg">
     <figcaption>
