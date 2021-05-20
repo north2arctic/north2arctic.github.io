@@ -23,92 +23,91 @@ Our next section is even longer, and it will take us more than 2 weeks to get to
 
 Photos to come very soon.
 
-<!--
+
 
 <figure>
-    <img src="/assets/images/05-19/.jpeg">
+    <img src="/assets/images/05-19/laperouse.jpeg">
     <figcaption>
-
+ Our first challenge was crossing LaPerouse Glacier, that in recent years has retreated  from the beach, allowing for easy walking on its moraine.
     </figcaption>
 </figure>
 
 <figure>
-    <img src="/assets/images/05-19/.jpeg">
+    <img src="/assets/images/05-19/bridge.jpeg">
     <figcaption>
-
+Ellie, our host in Gustavus, did parts of this section with her family and friends and her son built this convenient bridge with handrail to cross this stream. Thanks!!
     </figcaption>
 </figure>
 
 <figure>
-    <img src="/assets/images/05-19/.jpeg">
+    <img src="/assets/images/05-19/prints.jpeg">
     <figcaption>
-
+The beach was full of huge bear prints. We would see 12 bears in third section.
     </figcaption>
 </figure>
 
 <figure>
-    <img src="/assets/images/05-19/.jpeg">
+    <img src="/assets/images/05-19/lituya.jpeg">
     <figcaption>
-
+Crossing Lituya Bay was scary and we had to negotiate tricky swells and riptides. We could also see the scars of the mega tsunami on the hills on the left, that run 500 meters high. 
     </figcaption>
 </figure>
 
 <figure>
-    <img src="/assets/images/05-19/.jpeg">
+    <img src="/assets/images/05-19/house.jpeg">
     <figcaption>
-
+Part of the fun was negotiating house-sized boulders around the points.
     </figcaption>
 </figure>
 
 <figure>
-    <img src="/assets/images/05-19/.jpeg">
+    <img src="/assets/images/05-19/endless.jpeg">
     <figcaption>
-
+The beach sometimes feels a bit endless.
     </figcaption>
 </figure>
 
 <figure>
-    <img src="/assets/images/05-19/.jpeg">
+    <img src="/assets/images/05-19/pain.jpeg">
     <figcaption>
-
+No comment.
     </figcaption>
 </figure>
 
 <figure>
-    <img src="/assets/images/05-19/.jpeg">
+    <img src="/assets/images/05-19/bergs.jpeg">
     <figcaption>
-
+Crossing the outlet of the Grand Plateau Glacier was exciting, as we had squeeze between stranded small icebergs at the mouth. 
     </figcaption>
 </figure>
 
 <figure>
-    <img src="/assets/images/05-19/.jpeg">
+    <img src="/assets/images/05-19/shelf.jpeg">
     <figcaption>
-
+We also walked for long distances on the bedrock shelf, reminding us to the West Coast Trail in Vancouver Island.
     </figcaption>
 </figure>
 
 <figure>
-    <img src="/assets/images/05-19/.jpeg">
+    <img src="/assets/images/05-19/bear.jpeg">
     <figcaption>
-
+One of the grizzlies we saw, they are huge.
     </figcaption>
 </figure>
 
 <figure>
-    <img src="/assets/images/05-19/.jpeg">
+    <img src="/assets/images/05-19/tracks.jpeg">
     <figcaption>
-
+Our tracks on the beach.
     </figcaption>
 </figure>
 
 <figure>
-    <img src="/assets/images/05-19/.jpeg">
+    <img src="/assets/images/05-19/dry.jpeg">
     <figcaption>
-
+The Italio River cabin allowed us to dry everything, thanks to the remaining fuel that others left behind.
     </figcaption>
 </figure>
 
--->
 
 
