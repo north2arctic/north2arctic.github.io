@@ -38,7 +38,7 @@ Ellie, our host in Gustavus, did parts of this section with her family and frien
 <figure>
     <img src="/assets/images/05-19/prints.jpeg">
     <figcaption>
-The beach was full of huge bear prints. We would see 12 bears in third section.
+The beach was full of huge bear prints. We saw 12 bears on the Outer Coast.
     </figcaption>
 </figure>
 
