@@ -124,7 +124,7 @@ The same lake seen from above. We paddled to avoid crossing its dangerous outlet
 <figure>
     <img src="/assets/images/05-31/forest.jpg">
     <figcaption>
-The Malaspina Glacier extends all the way ocean, but covered by a forest that grows on a thin layer of soil on top the ice. We could only see the ice in this on spot, where the trees had to adapt to the changing glacier and rarely grew straight.
+The Malaspina Glacier extends all the way ocean, but covered by a forest that grows on a thin layer of soil on top the ice. We could only see the ice at this spot, where the trees had to adapt to the changing glacier and rarely grew straight.
     </figcaption>
 </figure>
 
