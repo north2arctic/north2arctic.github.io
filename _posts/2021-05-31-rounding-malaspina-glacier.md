@@ -61,14 +61,14 @@ We couldn't stop photos of icebergs floating in Yakutat Bay!
 <figure>
     <img src="/assets/images/05-31/beach.jpg">
     <figcaption>
-We landed on a beach, just below a barrier of ice deposited by the last high tide. The even higher tide overnight washed them all out.
+We landed on a beach, just below a barrier of ice deposited by the last high tide. The even higher tide overnight washed all ice out.
     </figcaption>
 </figure>
 
 <figure>
     <img src="/assets/images/05-31/hubbard2.jpg">
     <figcaption>
- The 350 ft face of the Hubbard Glacier lit up with the last rays of sun. We couldn't see large calvings from the distance but heard several rumbles coming from the glacier.
+ The 350 foot tall face of the Hubbard Glacier lit up with the last rays of sun. We couldn't see large calvings from the distance but heard several rumbles coming from the glacier.
     </figcaption>
 </figure>
 
