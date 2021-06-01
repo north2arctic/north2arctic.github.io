@@ -75,7 +75,7 @@ We landed on a beach, just below a barrier of ice deposited by the last high tid
 <figure>
     <img src="/assets/images/05-31/camp.jpg">
     <figcaption>
-That night we camped on the beach at the most spectacular site so far. In the morning we could the whole range for about 15 minutes until the first clouds covered it.
+That night we camped on the beach at the most spectacular site so far. In the morning we could see the whole St Elias range for about 15 minutes until the clouds started covering it.
     </figcaption>
 </figure>
 
