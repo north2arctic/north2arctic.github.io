@@ -1,5 +1,6 @@
 ---
 title:  "Preparations"
+comments: false
 
 ---
 We have been asked by many friends and family members, what are you doing at the moment? What goes into preparing such a trip?
