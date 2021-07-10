@@ -2,9 +2,7 @@
 title:  "Here we go again!"
 ---
 
-This is the first update in a while! 
-
-After flying out of Icy Bay, we spent a wonderful week in Cordova. While we were waiting on Ricardo’s foot to heal, we were considering how to continue our trip. We didn’t feel like going back to Icy Bay to do the stretch we skipped. We were still a bit shaken to do the Copper River, either following it upstream, which would have been the most challenging stretch, or floating it downstream, which felt at the limit of our skills. Farther up in the interior the snow cover was quite considerable, given the past cold and wet winter.
+This is the first update in a while! After flying out of Icy Bay, we spent a wonderful week in Cordova. While we were waiting on Ricardo’s foot to heal, we were considering how to continue our trip. We didn’t feel like going back to Icy Bay to do the stretch we skipped. We were still a bit shaken to do the Copper River, either following it upstream, which would have been the most challenging stretch, or floating it downstream, which felt at the limit of our skills. Farther up in the interior the snow cover was quite considerable, given the past cold and wet winter.
 
 We also contemplated a very different alternative plan. One of the big goals for Salomé was going on a long continuous trip, and it seemed Alaska was proving to always be harder than we expected. We thought of other places where we could do such a continuous trip, and we particularly liked the idea of crossing the Alps, from Monaco to Trieste along the Via Alpina. 
 
