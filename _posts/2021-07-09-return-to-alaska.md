@@ -1,0 +1,19 @@
+---
+title:  "Here we go again!"
+---
+
+This is the first update in a while! 
+
+After flying out of Icy Bay, we spent a wonderful week in Cordova. While we were waiting on Ricardo’s foot to heal, we were considering how to continue our trip. We didn’t feel like going back to Icy Bay to do the stretch we skipped. We were still a bit shaken to do the Copper River, either following it upstream, which would have been the most challenging stretch, or floating it downstream, which felt at the limit of our skills. Farther up in the interior the snow cover was quite considerable, given the past cold and wet winter.
+
+We also contemplated a very different alternative plan. One of the big goals for Salomé was going on a long continuous trip, and it seemed Alaska was proving to always be harder than we expected. We thought of other places where we could do such a continuous trip, and we particularly liked the idea of crossing the Alps, from Monaco to Trieste along the Via Alpina. 
+
+Not being able to make a call from Cordova, we decided to go back home to Seattle for a few days, regroup and plan there. We didn’t rush the way back by flying back directly from Cordova, and instead took the ferry across Prince William Sound to Whittier and then the train to Anchorage, allowing us a slow reinsertion into the tourist craziness surrounding all mainstream Alaska.
+
+Once in Seattle, we researched the crossing of the Alps, but every time we tried to get excited about this plan, the thought creeped up that this is something we can still do in 20-30 years. When will we have so much time off while still being young? The timing felt wrong. Additionally, as soon as we left Alaska, we had doubts whether it had been the right decision to leave. Packrafting and hiking from Ketchikan to Icy Bay was harder than we expected but with a bit of perspective, our journey does not feel as cold, wet and hard anymore as it sometimes felt in the moment. On the contrary, the good moments, beautiful views, wonderful people we met and all we have accomplished stand out. After a lot of thinking, we decided to return to Alaska, we felt that we had unfinished business there. And when will be so free to be able to go on such an adventure in such a remote place again if not now? 
+
+Ricardo's foot fully healed after a couple of days in Seattle and we were starting with the planning and logistics of returning to Alaska. As soon as we were ready, Salomé got sick, catching a virus that left her in bed for four days eating only baby food (luckily it wasn’t COVID). We knew that we had to wait again for her to get better before we could set off and tackle the difficult terrain and conditions in Alaska. The waiting game was hard on us, as it felt we were wasting the precious time we had been able to carve out for adventure. We decided to go see our families in Europe, Salomé could also regain her strength there while seeing family and friends that we hadn't been able to see since the beginning of the pandemic. Often we were thinking about them on this journey and during rainy and cold days, we often wondered whether the suffering in Alaska was worth it or whether we should not just go to see them instead.
+
+After 2 weeks in Europe, we feel well recovered and full of new energy to continue our trip. Of course, taking a break of a bit more than a month means that we won't be able to do the whole route as we had originally planned. It allows us however to pick sections that we are excited about while still trying to do a continuous trip.
+
+We are going to start in Healy, right next to Denali National park and hike East (away from the National Park) towards Slana and Nabesna, and then South towards McCarthy and Cordova. And perhaps we will be able to connect our footsteps with the ones we left in Icy Bay. This new plan means that we will miss the Brooks Range and the Arctic. And that’s ok, we will just have to come back another year.
