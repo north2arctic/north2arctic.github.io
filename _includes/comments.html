@@ -32,6 +32,7 @@
           <!-- End static comments -->
 
           <!-- Start new comment form -->
+          {% if page.comments_form %}
           <div class="page__comments-form">
             <h4 class="page__comments-title">{{ site.data.ui-text[site.locale].comments_label | default: "Leave a Comment" }}</h4>
             <p class="small">{{ site.data.ui-text[site.locale].comment_form_info | default: "Your email address will not be published. Required fields are marked" }} <span class="required">*</span></p>
@@ -80,6 +81,8 @@
               </div>
             </form>
           </div>
+          {% endif %}
+
           <!-- End new comment form -->
           {% if site.reCaptcha.siteKey %}<script async src="https://www.google.com/recaptcha/api.js"></script>{% endif %}
         {% endif %}
