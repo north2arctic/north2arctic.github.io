@@ -106,7 +106,7 @@ We made many fires to try to dry our shoes a bit. They were wet most of the time
 <figure>
     <img src="/assets/images/07-20/trident-glacier.jpg">
         <figcaption>
-We had to cross the mile wide Trident Glacier, we had no idea of how long it would take us.
+We had to cross the mile wide Trident Glacier, we had no idea how long it would take us.
     </figcaption>
 </figure>
 <figure>
