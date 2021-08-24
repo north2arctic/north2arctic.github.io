@@ -65,7 +65,7 @@ Getting to the Chitina River wasn't easy. We tried to go down a ravine, but it w
 <figure>
     <img src="/assets/images/08-23/trestle.jpg">
     <figcaption>
-We walked on the old railroad to get around Wood Canyon, where we could see old trestles and tunnels carved in the rock. The first few miles are still being used by fishermen but the tail is heavily overgrown after that.
+We walked on the old railroad to get around Wood Canyon, where we could see old trestles and tunnels carved in the rock. The first few miles are still being used by fishermen but the trail is heavily overgrown after that.
     </figcaption>
 </figure>
 
@@ -149,7 +149,7 @@ These are the largest raspberries we've ever seen. Many of them had already been
 <figure>
     <img src="/assets/images/08-23/bridge.jpg">
     <figcaption>
-New York or Alaska? The last span off the bridge fell during the 1964 earthquake and when it was raised back it was left out of alignment.
+New York City or Alaska? The last span off the bridge fell during the 1964 earthquake and when it was raised back it was left out of alignment.
     </figcaption>
 </figure>
 
