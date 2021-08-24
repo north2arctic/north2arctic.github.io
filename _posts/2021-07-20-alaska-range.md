@@ -71,13 +71,13 @@ We saw many ground squirrels and pikas in the many moraines we had to traverse.
 <figure>
     <img src="/assets/images/07-20/hayes-crossing.jpg">
         <figcaption>
-Scouting with the drone, it looked like we could cross the river right where it came out of the Hayes Glacier. We set to try it the next morning.
+Scouting with the drone, it looked like we could cross the river right where it came out of the Hayes Glacier. We set off to try it the next morning.
     </figcaption>
 </figure>
 <figure>
     <img src="/assets/images/07-20/crossing.jpg">
         <figcaption>
-The next day, we could see Mount Hayes and Mount Geist when we tried to cross the river. Unfortunately the river ran too deep in the last Chanel and we had to climb over the glacier.
+The next day, we could see Mount Hayes and Mount Geist when we tried to cross the river. Unfortunately the river ran too deep in the last channel and we had to climb over the glacier.
     </figcaption>
 </figure>
 
