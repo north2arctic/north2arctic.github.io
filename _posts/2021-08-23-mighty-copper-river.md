@@ -1,5 +1,5 @@
 ---
-title:  "The mighty Copper River"
+title:  "Mighty Copper River"
 ---
 
 
@@ -39,111 +39,110 @@ Paddling in Miles Lake was spectacular, as we were nestled between the two massi
 
 Camping in front of the face of Childs Glacier is not recommended as large waves run up the shore when the glacier calves, akin to tsunamis. We ended up setting the sleeping bags on a raised platform with interpretative signs. We imagine how it would have been very busy back when it was possible to drive here, as it had the best views on the glacier. But luckily we were alone. We got to the platform already in the dark, and we could hear the glacier’s rumblings every once in a while. As we were going to sleep, the moon, which was full, came up shining light on the glacier face. We couldn’t ask for more.
 
-The next day we went back to the Million Dollar Bridge one last time and put into the Copper just below it. We paddled in front of the glacier’s face, hoping that the glacier’s face would hold still while we were below it. The water was quite turbulent, so we just paddled and didn’t take many photos, we had taken so many from the shore! From the glacier, it was smooth travels to Cordova. The river was fast, and we averaged more than 6 miles an hour. We took out by the road 12 miles below, where the road ends and got a ride into Cordova. In a few days, we’ll come back to the same spot and continue downriver and we hit the ocean, and then head east until Icy Bay, where we always were in late May. We’ll keep you posted!
+The next day we went back to the Million Dollar Bridge one last time and put into the Copper just below it. We paddled in front of the glacier’s face, hoping that the glacier’s face would hold still while we were below it. The water was quite turbulent, so we just paddled and didn’t take any photos, we had taken so many from the shore! From the glacier, it was smooth rafting to Cordova. The river was fast, and we averaged more than 6 miles an hour. We took out by the road 12 miles below, where it ends and got a ride into Cordova. In a few days, we’ll come back to the same spot and continue downriver until the ocean, and head east towards Icy Bay, where we already were in late May. We will be sad once the trip ends, we are enjoying this adventure so much! 
 
 <figure>
     <img src="/assets/images/08-23/kennicott.jpg">
     <figcaption>
-
+We visited the Kennicott Copper Mines, that sit next to the glacier, which is covered by moraine in the lower part. The mill  is more than ten stories tall!
     </figcaption>
 </figure>
 
 <figure>
     <img src="/assets/images/08-23/forest.jpg">
     <figcaption>
-
+We left the road 15 miles out of McCarthy and bushwhacked through not very dense forest towards the Chitina River.
     </figcaption>
 </figure>
 
 <figure>
     <img src="/assets/images/08-23/cliffs.jpg">
     <figcaption>
-
+Getting to the Chitina River wasn't easy. We tried to go down a ravine, but it was choke full with vegetation, so we scrambled down the steep mud cliffs. The Chitina below is very braided, and navigating its multiple channels made it for a never boring paddle.
     </figcaption>
 </figure>
 
 <figure>
     <img src="/assets/images/08-23/fog.jpg">
     <figcaption>
-
+Fog settled in the Copper river valley as we went below Wood Canyon.
     </figcaption>
 </figure>
 
 <figure>
     <img src="/assets/images/08-23/camp.jpg">
     <figcaption>
-
+We camped on a large sandbar early in the afternoon and enjoyed the weather until the wind started blowing.
     </figcaption>
 </figure>
 
 <figure>
     <img src="/assets/images/08-23/dunes.jpg">
     <figcaption>
-
+There is a 5-mile long stretch of sand dunes by the confluence of Bremner and the Copper, making for a surreal landscape.
     </figcaption>
 </figure>
 
 <figure>
     <img src="/assets/images/08-23/waterfalls.jpg">
     <figcaption>
-
+The hills are very densely vegetated. Originally had planned doing this section in reverse, and we can only imagine how hard it would be to bushwhack in such dense brush.
     </figcaption>
 </figure>
 
 <figure>
     <img src="/assets/images/08-23/fishing.jpg">
     <figcaption>
-
+We saw lots of bears fishing for salmon in Abercrombie Rapids.
     </figcaption>
 </figure>
 
 <figure>
     <img src="/assets/images/08-23/childs-glacier-far.jpg">
     <figcaption>
-
+Our first sight of the Million Dollar Bridge, which is wharfed by the Childs Glacier behind.
     </figcaption>
 </figure>
 
 <figure>
     <img src="/assets/images/08-23/miles-glacier.jpg">
     <figcaption>
-
+Miles Glacier is significantly larger than Childs and is more thanks 20 miles long.
     </figcaption>
 </figure>
 
 <figure>
     <img src="/assets/images/08-23/icebergs.jpg">
     <figcaption>
-
+Miles Glacier spits icebergs the size of apartment buildings on the far end of the lake. These melt into smaller pieces that then drift past the Million Dollar Bridge towards the ocean.
     </figcaption>
 </figure>
 
 <figure>
     <img src="/assets/images/08-23/face.jpg">
     <figcaption>
-
+We slept on the deserted viewing platform of the Childs Glacier Visitor Center. The road to it was closed many years ago due to a bridge failure farther downstream.
     </figcaption>
 </figure>
 
 <figure>
     <img src="/assets/images/08-23/calving-face.jpg">
     <figcaption>
-
+We kept wondering if this tilted chunk of ice would calve while we were there.
     </figcaption>
 </figure>
 
 <figure>
-    <img src="/assets/images/08-23/
-    raspberries.jpg">
+    <img src="/assets/images/08-23/raspberries.jpg">
     <figcaption>
-
+These are the largest raspberries we've ever seen. Many of them had already been eaten by the bears.
     </figcaption>
 </figure>
 
 <figure>
     <img src="/assets/images/08-23/bridge.jpg">
     <figcaption>
-
+New York or Alaska? The last span off the bridge fell during the 1964 earthquake and when it was raised back it was left out of alignment.
     </figcaption>
 </figure>
 
@@ -151,7 +150,7 @@ The next day we went back to the Million Dollar Bridge one last time and put int
 <figure>
     <img src="/assets/images/08-23/put-in.jpg">
     <figcaption>
-
+Our finally put in for the trip. We got the road in a bit more than two hours time.
     </figcaption>
 </figure>
 
