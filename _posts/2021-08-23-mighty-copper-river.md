@@ -157,7 +157,7 @@ New York City or Alaska? The last span off the bridge fell during the 1964 earth
 <figure>
     <img src="/assets/images/08-23/put-in.jpg">
     <figcaption>
-Our finally put in for the trip. We got the road in a bit more than two hours time.
+Our final put in of the trip by the salmon counting station at the Million Dollar Bridge.
     </figcaption>
 </figure>
 
