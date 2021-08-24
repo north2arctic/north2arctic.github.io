@@ -39,7 +39,7 @@ Paddling in Miles Lake was spectacular, as we were nestled between the two massi
 
 Camping in front of the face of Childs Glacier is not recommended as large waves run up the shore when the glacier calves, akin to tsunamis. We ended up setting the sleeping bags on a raised platform with interpretative signs. We imagine how it would have been very busy back when it was possible to drive here, as it had the best views on the glacier. But luckily we were alone. We got to the platform already in the dark, and we could hear the glacier’s rumblings every once in a while. As we were going to sleep, the moon, which was full, came up shining light on the glacier face. We couldn’t ask for more.
 
-The next day we went back to the Million Dollar Bridge one last time and put into the Copper just below it. We paddled in front of the glacier’s face, hoping that the glacier’s face would hold still while we were below it. The water was quite turbulent, so we just paddled and didn’t take any photos, we had taken so many from the shore! From the glacier, it was smooth rafting to Cordova. The river was fast, and we averaged more than 6 miles an hour. We took out by the road 12 miles below, where it ends and got a ride into Cordova. In a few days, we’ll come back to the same spot and continue downriver until the ocean, and head east towards Icy Bay, where we already were in late May. We will be sad once the trip ends, we are enjoying this adventure so much! 
+The next day we went back to the Million Dollar Bridge one last time and put into the Copper just below it. We paddled in front of the glacier’s face, hoping that it would not calve. The water was quite turbulent, so we just paddled and didn’t take any photos, we had taken so many from the shore! From the glacier, it was smooth rafting to Cordova. The river was fast, and we averaged more than 6 miles an hour. We took out by the road 12 miles below, where it ends and got a ride into Cordova. In a few days, we’ll come back to the same spot and continue downriver until the ocean, and head east towards Icy Bay, where we stopped our first bout in late May. We will be sad once the trip ends, we are enjoying this adventure so much! 
 
 <figure>
     <img src="/assets/images/08-23/kennicott.jpg">
@@ -59,6 +59,13 @@ We left the road 15 miles out of McCarthy and bushwhacked through not very dense
     <img src="/assets/images/08-23/cliffs.jpg">
     <figcaption>
 Getting to the Chitina River wasn't easy. We tried to go down a ravine, but it was choke full with vegetation, so we scrambled down the steep mud cliffs. The Chitina below is very braided, and navigating its multiple channels made it for a never boring paddle.
+    </figcaption>
+</figure>
+
+<figure>
+    <img src="/assets/images/08-23/trestle.jpg">
+    <figcaption>
+We walked on the old railroad to get around Wood Canyon, where we could see old trestles and tunnels carved in the rock. The first few miles are still being used by fishermen but the tail is heavily overgrown after that.
     </figcaption>
 </figure>
 
@@ -100,28 +107,28 @@ We saw lots of bears fishing for salmon in Abercrombie Rapids.
 <figure>
     <img src="/assets/images/08-23/childs-glacier-far.jpg">
     <figcaption>
-Our first sight of the Million Dollar Bridge, which is wharfed by the Childs Glacier behind.
+Our first sight of the Million Dollar Bridge, which is dwarfed by the Childs Glacier behind.
     </figcaption>
 </figure>
 
 <figure>
     <img src="/assets/images/08-23/miles-glacier.jpg">
     <figcaption>
-Miles Glacier is significantly larger than Childs and is more thanks 20 miles long.
+Miles Glacier is significantly larger than Childs and is more than 20 miles long.
     </figcaption>
 </figure>
 
 <figure>
     <img src="/assets/images/08-23/icebergs.jpg">
     <figcaption>
-Miles Glacier spits icebergs the size of apartment buildings on the far end of the lake. These melt into smaller pieces that then drift past the Million Dollar Bridge towards the ocean.
+Miles Glacier spits out icebergs the size of apartment buildings on the far end of the lake. These melt into smaller pieces that then drift past the Million Dollar Bridge towards the ocean.
     </figcaption>
 </figure>
 
 <figure>
     <img src="/assets/images/08-23/face.jpg">
     <figcaption>
-We slept on the deserted viewing platform of the Childs Glacier Visitor Center. The road to it was closed many years ago due to a bridge failure farther downstream.
+We slept on the deserted viewing platform of the Childs Glacier Visitor Center. There was no one around as it has not been accessible by road for years due to a collapsed bridge down the road.
     </figcaption>
 </figure>
 
