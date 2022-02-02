@@ -296,4 +296,4 @@ defaults:
       author_profile: true
 
 prose:
-  media: 'assets/prose_images'
+  media: 'assets/images/YYYY-MM-DD'
