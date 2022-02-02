@@ -25,11 +25,11 @@ Coming back to Seattle wasn’t easy. Ricardo had to adjust to work and Salomé 
 
 ![Admiring the fall colors from the hill above Chisana. When we arrived, all the blueberry bushes were red and the cottonwood tree yellow. When we left, the winter had arrived.]({{site.baseurl}}/assets/images/2022-02-01/FallColors.JPG)
 
-![Breakfast with our host Arthur and our friend Cat. What you can’t see is the delicious fruit salad that Arthur prepared every morning.]({{site.baseurl}}/assets/prose-images/breakfast.jpg)
+![Breakfast with our host Arthur and our friend Cat. What you can’t see is the delicious fruit salad that Arthur prepared every morning.]({{site.baseurl}}/assets/images/2022-02-01/breakfast.jpg)
 
-![Arthur is an excellent cook. We never expected to eat so well so far away from civilization. No wonder did we not want to leave, he spoiled us.]({{site.baseurl}}/assets/prose_images/SalmonStarter.jpg)
+![Arthur is an excellent cook. We never expected to eat so well so far away from civilization. No wonder did we not want to leave, he spoiled us.]({{site.baseurl}}/assets/images/2022-02-01/SalmonStarter.jpg)
 
-![Milling logs for a bridge that the neighbor Vern was building. The trees were felled on the neighboring property.]({{site.baseurl}}/assets/prose_images/Woodworking.jpg)
+![Milling logs for a bridge that the neighbor Vern was building. The trees were felled on the neighboring property.]({{site.baseurl}}/assets/images/2022-02-01/Woodworking.jpg)
 
 ![This owl stayed on the property for at least 20 minutes probably on the lookout for mice that we often saw running around in the grass.]({{site.baseurl}}/assets/images/2022-02-01/Owl.JPG)
 
