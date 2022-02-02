@@ -295,4 +295,5 @@ defaults:
       layout: single
       author_profile: true
 
-
+prose:
+  media: 'assets/prose_images'
