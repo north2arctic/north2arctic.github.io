@@ -1,5 +1,6 @@
 ---
-title:  "Connecting the dots at Icy Bay"
+title: Connecting the dots at Icy Bay
+published: true
 ---
 
 We made it to Icy Bay! We got to the same lodge where we took shelter when we decided to pause the trip last May. Thus, we closed the loop from Ketchikan to Healy, from Alaska’s southernmost city to the border of Denali National Park. We are so glad we continued our trip in Alaska, as we really enjoyed this second part of our adventure. We were able to thoroughly enjoy the traveling in the coast this time, partially thanks to better weather compared to this spring.
@@ -45,16 +46,6 @@ All in all, we feel very happy with the decisions we made, and with how our trip
 Alaska’s wilderness is of such a different scale than anything we have experienced before. It is both harder, wilder and more rewarding. We go back home with so many lasting memories and feeling proud if what we achieved, just a little bit sad that this amazing experience and dream had come to an end. We doubt it won’t be long until we come back to Alaska to continue exploring! And crossing the Brooks Range is at the top of our list.
 
 We are writing this blogpost from an off the grid cabin in Chisana in the Wrangell-St Elias National Park, a place you can only fly in with bush planes. One, of the many friends we made along the road has invited us to spend some time there and this couldn’t be a better place to end our Alaska journey: good food and conversations in a stunning place. We’ll describe our time in Chisana in a future post!
-
-----
-
-But we are already thinking of our next adventures, and going to the Brooks Range is very high on our list. In any case, after experiencing the Alaska wilderness for so long this year, we doubt we will be
-
- It was an enormous disappointment when we realized in Icy Bay that it wasn’t going to happen as we had hoped for. We
-
- We did not make it to the Arctic, as we planned back in Seattle. We had to shorten our journey because we ended up spending more time in towns and also waiting for Ricardo’s injury to heal. But when we got to Icy Bay, this did not matter anymore. We felt so grateful that we had been able to close the loop and go back to the place where we decided to stop the trip in May. Back then, it was so hard on us, we felt sad and disheartened, but this time we felt accomplished and proud, only a bit sad that this long and wonderful adventure had come to an end. Moreover, not rushing through the town stops allowed us to meet and forge friendships with so many incredible Alaskans.
-
-Now we can start dreaming about the next adventure. Perhaps we can continue our track through Alaska towards the Arctic and cross the Brooks Range? In any case, we have found a new home for our wilderness spirit here in Alaska, and this will definitively not be our last adventure here.
 
 
 
