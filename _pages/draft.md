@@ -33,12 +33,9 @@ Coming back to Seattle wasn’t easy. Ricardo had to adjust to work and Salomé 
 
 ![This owl stayed on the property for at least 20 minutes probably on the lookout for mice that we often saw running around in the grass.]({{site.baseurl}}/assets/images/2022-02-01/Owl.JPG)
 
+![When the weather was good, we went on short walks around the cabin.]({{site.baseurl}}/assets/images/2022-02-01/walk.jpg)
 
+![View from the cabin after it snowed overnight. This day the snow melted but two days later, it snowed again and it did not melt anymore. Winter had arrived. ]({{site.baseurl}}/assets/images/2022-02-01/snow.jpg)
 
-
-
-
-
-
-
+![The flights were spectacular! We feel so lucky to have had the opportunity to fly with Arthur.]({{site.baseurl}}/assets/images/2022-02-01/ViewFlight.JPG)
 
