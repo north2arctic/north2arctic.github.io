@@ -12,5 +12,5 @@ main:
     url: /gear/
   - title: "Thanks"
     url: /thankyou/
-  - title: "About"
-    url: /about/
+  # - title: "About"
+  #   url: /about/
