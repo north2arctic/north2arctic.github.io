@@ -288,4 +288,11 @@ defaults:
       #   overlay_filter: "0.0"
       #   overlay_image: /assets/images/splash-photo.jpg
         # image_description: "A trip."
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
 
