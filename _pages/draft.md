@@ -21,5 +21,8 @@ Before flying back to Seattle, we went to visit Erin and Hig in Seldovia. Their 
 
 Coming back to Seattle wasn’t easy. Ricardo had to adjust to work and Salomé had to figure out what to do next. We both struggled with that. We spent our first few days buying a car, not an easy task during a car shortage. It started to sink in that our Alaska adventure was over, leaving us with a void. A full year had been devoted to this trip, 6 months of planning and the actual 6 months of being on the trip. And now it was all over. But it never takes Salomé long to dream of new adventures… 
 
+![August 4: Ready to leave for McCarthy. We did not think back then that we’d stay in that cabin for two weeks a bit more than a month later.]({{site.baseurl}}/assets/images/2022-02-01/August.jpg)
+
+
 
 
