@@ -11,5 +11,5 @@ published: true
 
 Random stuff here.
 
-![Tata]({{site.baseurl}}/assets/images/test/avatar-us.jpg)
+![dada]({{site.baseurl}}/assets/prose_images/avatar-us.jpg)
 
