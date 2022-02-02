@@ -1,5 +1,13 @@
 ---
 title:  "Little Bering Sea"
+
+# <!-- <figure>
+#   {% include maps/xs1c.html %}
+#   <figcaption>
+#     Our route for this post, we left Petersburg and made it to the tiny lighthouse.
+#   </figcaption>
+# </figure> -->
+
 ---
 
 
@@ -29,12 +37,6 @@ We are so thankful to Thomas and Jeff, and the FiveFive Finger Lighthouse Societ
 
 Reflecting back on this leg, we keep learning a lot about ourselves and the rhythm of traveling with packrafts. Although our extended stay at the lighthouse will further put us behind our schedule, we don’t regret it. We (mostly  Ricardo) often think how much easier this section would be if we had brought our sea kayaks instead. But only by travelling slowly we can have these unique experiences such as staying in this beautiful lighthouse. Nonetheless, we look forward to making it to Juneau and continue on to Gustavus, which will be our last long marine packrafting section of the trip. 
 
-<!-- <figure>
-  {% include maps/xs1c.html %}
-  <figcaption>
-    Our route for this post, we left Petersburg and made it to the tiny lighthouse.
-  </figcaption>
-</figure> -->
 
 <figure>
     <img src="/assets/images/04-17/launch.jpg">

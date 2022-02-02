@@ -1,5 +1,14 @@
 ---
 title:  "Lingering Winter"
+
+
+# <!-- <figure>
+#   {% include maps/xs1a.html %}
+#   <figcaption>
+#     Our route for this post, we walked on the road a whole day until it ended (gray), and then mostly paddled to Yes Bay (blue).
+#   </figcaption>
+# </figure> -->
+
 ---
 
 Last Monday we left from Ketchikan towards Wrangell, our very first section. Things went well, but we decided to turn around about half way at Yes Bay. Winter is lingering in Southeast Alaska and our planned route overland crossing the Cleveland Peninsula was too ambitious. Here’s how it played out.
@@ -16,13 +25,6 @@ How do we feel? It was not easy to backtrack so early in our journey but we cons
 
 We are now on the ferry to Wrangell from where we’ll resume our journey. Funnily enough, it’s the same sailing what we tried to get on 10 days ago in Bellingham. We are also thinking how we can complete the 50 miles we skipped once we are done in the Arctic in September. But first we have a lot of miles ahead of us.
 
-
-<!-- <figure>
-  {% include maps/xs1a.html %}
-  <figcaption>
-    Our route for this post, we walked on the road a whole day until it ended (gray), and then mostly paddled to Yes Bay (blue).
-  </figcaption>
-</figure> -->
 
 <figure>
         <img src="/assets/images/04-04/walmart.jpg">

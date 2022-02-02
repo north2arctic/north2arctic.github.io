@@ -1,5 +1,14 @@
 ---
 title:  "Of Sun And Winds"
+
+
+# <!-- <figure>
+#   {% include maps/xs1d.html %}
+#   <figcaption>
+#     Our route for this post, we managed to cross Stephens Passage and walked north on the Seymour Canal. We finally crossed to Douglas Island and walked into Juneau.
+#   </figcaption>
+# </figure> -->
+
 ---
 
 On Monday we left very early the beautiful Five Finger Lighthouse trying to catch low winds and a high tide that would make it easy for us to leave the rocky island where the lighthouse sits. Our goal was to get to the Glass Peninsula of Admiralty Island, whose beaches are easy to walk and could give us some protection from the northerly winds. Although in a straight line it was about 20 miles north of the lighthouse, such a long open water crossing would be reckless, as you would be at the mercy of the ocean for a whole day. Any change in weather would put you in trouble miles away from land. Instead, we island hopped, first to Akusha and then to Sail Islands, the former being an old fox farm that we didn’t get time to explore. After lunch, we did a long 5 mile crossing east, where we hoped to get assistance from the tide, but a massive eddy made the last mile a slog to land. Eddies are locations in a river or a canal where the water recirculates and flows against the main current. They can also be very useful when paddling against the current. This one was the biggest we had ever seen!
@@ -18,12 +27,6 @@ In Juneau we are enjoying our first shower in a long time, fresh food and meetin
 
 During this section we lovingly called each other slave-drivers. We are learning that when the conditions are good, you need to get up very early, pack up quickly and do long days. One of us is always more tired or sore, so the other one takes the role in cheering the other one on. These sea sections make us so dependent on the weather! Tomorrow is the last sunny day in a while, and a great chance to cross the Lynn Canal. Go, go, go!
 
-<!-- <figure>
-  {% include maps/xs1d.html %}
-  <figcaption>
-    Our route for this post, we managed to cross Stephens Passage and walked north on the Seymour Canal. We finally crossed to Douglas Island and walked into Juneau.
-  </figcaption>
-</figure> -->
 
 <figure>
     <img src="/assets/images/04-25/eagle.jpeg">

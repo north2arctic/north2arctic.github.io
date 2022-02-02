@@ -1,5 +1,13 @@
 ---
 title:  "Fishing Towns and Spring in Sight"
+
+# <!-- <figure>
+#   {% include maps/xs1b.html %}
+#   <figcaption>
+#     Our route for this post, we did a long crossing to Mitkof Island and a long walk on the road to Petersburg.
+#   </figcaption>
+# </figure> -->
+
 ---
 
 We booked tickets on the ferry to skip ahead to Wrangell. It was the same sailing we were supposed to catch in late March from Bellingham that was delayed by a week. It was good to hear the stories of others who waited, like Diana and Laughlin, who were moving to Alaska with their car and U-Haul and had to ride on the ferry. Given how late winter is staying here, perhaps we should have waited too!
@@ -20,12 +28,6 @@ Having some down time also helps us plan the route ahead a bit better. This year
 
 We are now excited to continue our trip tomorrow! Due to the currents in the narrows, we better have an early start, as otherwise we would need to paddle against a 4 knot current at the entrance of the narrows (which is impossible in packrafts!). The weather looks much better next week (highs of 50F / 10C)  and we hope to make it to Juneau in 8-10 days. See you then!
 
-<!-- <figure>
-  {% include maps/xs1b.html %}
-  <figcaption>
-    Our route for this post, we did a long crossing to Mitkof Island and a long walk on the road to Petersburg.
-  </figcaption>
-</figure> -->
 
 <figure>
     <img src="/assets/images/04-11/petroglyph.jpg">
