@@ -1,15 +1,15 @@
 ---
 permalink: /draft/
-title:  "This is a draft!"
+title: This is a draft!
 layout: single
 author_profile: true
-
-# You can access the draft at north2arctic.com/draft
-# When copy to a post, just add these top lines. 
-# Remember to name the file as YYYY-MM-DD-this-is-a-draft.md in _posts/ folder.
-# ---
+published: true
+---
 # title: "This is a draft"
 # ---
 ---
 
 Random stuff here.
+
+![Tata]({{site.baseurl}}/assets/images/test/avatar-us.jpg)
+
