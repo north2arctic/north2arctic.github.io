@@ -34,7 +34,9 @@
   $('.page__content img').each(function(){
   src = $(this).attr('src');
   alt = $(this).attr('alt');
-  console.log(src, alt)
-  $(this).replaceWith('<figure><img src="'+ src + '"><figcaption>' + alt + '</figcaption></figure>');
+  if (alt != undefined) {
+    console.log(src, alt)
+    $(this).replaceWith('<figure><img src="'+ src + '"><figcaption>' + alt + '</figcaption></figure>');
+  }
 });
 </script>
