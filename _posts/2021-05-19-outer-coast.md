@@ -1,5 +1,6 @@
 ---
 title:  "Rain on the Outer Coast"
+comments_form: false
 ---
 
 The Outer Coast is a roughly 140 miles section of beach stretching from Icy Point to Yakutat. Large sections of the coast are sandy, some hard packed and easy to walk on, others softer and more tiring. In-between those easier sections there are bay crossings, boulder fields, ranging from fist-sized to house-sized, multiple glaciers, and river crossings. This mix made this section very appealing to us, easy yet interesting terrain and we both looked towards it! However, things never turned out as hoped, and the section ended up being harder on us than we expected, possibly due to the duress to get there. Now we cherish the easier times in the Inside Passage :)
