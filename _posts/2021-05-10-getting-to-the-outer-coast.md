@@ -1,5 +1,6 @@
 ---
 title:  "Getting to the Outer Coast"
+comments_form: false
 ---
 
 We made it to Yakutat! It was a long 15 day stretch from Gustavus without resupplies, where we saw many more bears than people! Indeed, it was so long, there will be a second part to this post.
