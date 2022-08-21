@@ -278,7 +278,7 @@ defaults:
         image: /assets/images/splash-photo.jpg
       read_time: true
       comments: true
-      comments_form: true
+      comments_form: false
       share: # true
       related: # true
       includes_sliders: true
