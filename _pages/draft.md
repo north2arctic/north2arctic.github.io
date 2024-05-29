@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 published: true
 ---
-On September 8th 2021 we woke up to our last day on our journey. While Ricardo felt proud and was looking forward to the trip ending, Salomé started crying. She was not ready for this adventure to end. 
+On September 8th 2021 we woke up to our last day on our journey. While Ricardo felt proud and was looking forward to the trip ending, Salomé started crying. She was not ready for this adventure to end.  
 
 We had initially planned to cross all of Alaska. But after enduring three weeks in nonstop rain at temperatures barely above freezing on the Lost Coast, Ricardo sprained his ankle. A storm three days later that would last 7 days made it impossible to cross Icy Bay. It forced us to take a break. We wondered whether we should return to Alaska or give up, it was clear that we could not do the whole trip anymore. In the end we decided to restart in Denali National Park and make our way back to Icy Bay, skipping the section through the Brooks Range. It ended up being a great decision. We had a wonderful time in the Alaska Range and in the Wrangells, and also enjoyed two weeks on the Lost Coast with much better weather and views. We finally closed the loop at Icy Bay. This time it was sunny, warm and the ocean was glassy, very different to the stormy Icy Bay we experienced at the end of May.
 
