@@ -24,7 +24,6 @@ As we boarded the plane, doubts we knew so well came up: “Will we be able to d
 
 ![Our practice two-day bikepacking adventure around Seattle. That morning we installed an old bike rack on Salomé's bike, and bought panniers for it.]({{site.baseurl}}/assets/images/2024-05-28/riding_bike_around_seattle.jpg)
 
-
 ![Checking in at Seatac, never had so many bags!.]({{site.baseurl}}/assets/images/2024-05-28/checking_in.jpg)
 
 ![Assembling the bicycles in Fairbanks, Ricardo is excited about his new bike.]({{site.baseurl}}/assets/images/2024-05-28/assembling_bikes.jpg)
