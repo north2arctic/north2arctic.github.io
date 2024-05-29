@@ -5,6 +5,9 @@ layout: single
 author_profile: true
 published: true
 ---
+
+**_NOTE:_**  We are finally updating our blog about our trip back to Alaska in 2023. We plan to release a post every week for the next few weeks, and we will be announcing each post on Salomé's [instagram account](https://www.instagram.com/salome.staehli/).
+
 On September 7th 2021 we woke up in Icy Bay to our last day on our journey, a beatiful sunny day. We crossed Icy Bay that we couldn't cross in late May 2021. We set up camp one last time and took the time to make a fire. Both deep in toughts, we started reflecting how hard it was to have to give up in this same spot 2.5 months ago. We did not realize back then how burned out we had been in May from the bad and cold weather. The Inside Passage and Lost Coast had been harder than expected. And when Ricardo got injured and a storm that would last 7 days made it impossible to cross Icy Bay, we had to take a break that we should have taken earlier. The forced break meant that we could not complete whole route, and had to leave out the Brooks Range and Noatak River. But on this September 8th we were so grateful that we had a chance to return to Alaska and have a different experience. We restarted at Denali National Park, had a blast hiking through the gorgeous Alaska Range and Wrangels, paddled down the Copper River which unexpectedly became one of the highlights of the whole trip, and hiked along the Lost Coast in much better weather back to Icy Bay. 
 
 Our heads full of memories, we stared into the fire. Above us the sandhill cranes flew south. The winter was coming. We had closed the loop. Ricardo felt accomplished and ready to go home but Salomé was sad that the adventure had come to an end. She leaned onto Ricardo’s shoulder and quietly whispered into his ear: “Next year we come back and finish the crossing, no?”  
@@ -17,11 +20,9 @@ We started planning -  Salomé packed food for 1.5 months, planned the route and
 
 As we boarded the plane, doubts we knew so well came up: “Will we be able to do this? The Brooks Range is more remote than we have ever been before. Did we plan for everything? How will the weather be? How bad will the mosquitoes be?” 
 
-![Our last night at Icy Bay, where the asked ourselves whether we will come back to Alaska to finish the trip?.]({{site.baseurl}}/assets/images/2024-05-28/us_at_icy_bay.jpg)
+![Our last night at Icy Bay, where the asked ourselves whether we will come back to Alaska to finish the trip?]({{site.baseurl}}/assets/images/2024-05-28/us_at_icy_bay.jpg)
 
-![On a busy Saturday morning, we installed an old bike rack on Salomé's bike, went to REI and bought some panniers and left for a short bikepacking adventure along the Snoqualmie Valley.]({{site.baseurl}}/assets/images/2024-05-28/riding_bike_around_seattle.jpg)
-
-![On a busy Saturday morning, we installed an old bike rack on Salomé's bike, went to REI and bought some panniers and left for a short bikepacking adventure along the Snoqualmie Valley.]({{site.baseurl}}/assets/images/2024-05-28/riding_bike_around_seattle.jpg)
+![Our practice two-day bikepacking adventure around Seattle. That morning we installed an old bike rack on Salomé's bike, and bought panniers for it.]({{site.baseurl}}/assets/images/2024-05-28/riding_bike_around_seattle.jpg)
 
 
 ![Checking in at Seatac, never had so many bags!.]({{site.baseurl}}/assets/images/2024-05-28/checking_in.jpg)
