@@ -33,15 +33,15 @@ Despite the rough ending to our day, we are excited about the adventure ahead.  
 
 
 
-![TODO]({{site.baseurl}}/assets/images/2024-05-29/ready_to_go.jpeg)
+![All packed and ready to start biking north from Denali National Park.]({{site.baseurl}}/assets/images/2024-05-29/ready_to_go.jpeg)
 
-![TODO]({{site.baseurl}}/assets/images/2024-05-29/alaska_range.jpeg)
+![On our first day biking, we leave the gorgeous Alaska Range behind us. Everytime we turn around, we are blown away by its beauty.]({{site.baseurl}}/assets/images/2024-05-29/alaska_range.jpeg)
 
-![TODO]({{site.baseurl}}/assets/images/2024-05-29/camping.jpeg)
+![Our first camp hidden in a forest next to the highway. The weather was great and we decided to just set up the mosquitonet.]({{site.baseurl}}/assets/images/2024-05-29/camping.jpeg)
 
-![TODO]({{site.baseurl}}/assets/images/2024-05-29/nenana.jpeg)
+![Biking into the historic town of Nenana. We enjoyed the handful of nicely restaured historic buildings and especially the train station.]({{site.baseurl}}/assets/images/2024-05-29/nenana.jpeg)
 
-![TODO]({{site.baseurl}}/assets/images/2024-05-29/smoky_fire.jpeg)
+![We made a fire and threw green grass on it to produce as much smoke as possible to keep the mosquitoes at bay. It is 10pm and the sun is still shining.]({{site.baseurl}}/assets/images/2024-05-29/smoky_fire.jpeg)
 
-![TODO]({{site.baseurl}}/assets/images/2024-05-29/swamp.jpeg)
+![The beginning of the swamp that we dubbed the "mosquitohell". Soon after we finally stopped to put rain gear on. We should have turned around at this point.]({{site.baseurl}}/assets/images/2024-05-29/swamp.jpeg)
 
