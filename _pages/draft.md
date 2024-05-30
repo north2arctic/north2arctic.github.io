@@ -22,6 +22,8 @@ As we boarded the plane, doubts we knew so well came up: “Will we be able to d
 
 ![Our last night at Icy Bay, where the asked ourselves whether we will come back to Alaska to finish the trip?]({{site.baseurl}}/assets/images/2024-05-28/us_at_icy_bay.jpg)
 
+![The of our planned route for 2023, 480 miles biking, 200 miles hiking and 450 miles paddling, packed into 6 weeks of vacation.]({{site.baseurl}}/assets/images/2024-05-28/map_2023.jpg)
+
 ![Our practice two-day bikepacking adventure around Seattle. That morning we installed an old bike rack on Salomé's bike, and bought panniers for it.]({{site.baseurl}}/assets/images/2024-05-28/riding_bike_around_seattle.jpg)
 
 ![Checking in at Seatac, never had so many bags!.]({{site.baseurl}}/assets/images/2024-05-28/checking_in.jpg)
