@@ -1,5 +1,5 @@
 ---
-permalink: /draft/
+permalink: /draft1/
 title: Alaska keeps calling
 layout: single
 author_profile: true
