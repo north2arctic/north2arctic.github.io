@@ -28,4 +28,21 @@ We look forward to our stay in the cabin and spend most of our time organizing o
 
 We set off with light bikes, Uta and Bernie will bring our stuff later that day, and we breeze through the last 56 miles of the biking section, which follow a long valley deep into the mountains. We are not biking in the Brooks Range, it is gorgeous! Even though we stop many times to take photos, we make good and quick progress. In the evening, the odometer Ricardo installed in his bike shows that we have done 485 miles total on the bikes. That night, Salomé confesses to Ricardo that she has actually enjoyed the biking section, the section she dreaded the most. 
 
-<!-- ![Our last night at Icy Bay, where the asked ourselves whether we will come back to Alaska to finish the trip?]({{site.baseurl}}/assets/images/2024-05-28/us_at_icy_bay.jpg) -->
+![TODO]({{site.baseurl}}/assets/images/2024-05-30/fairbanks.jpeg)
+
+![TODO]({{site.baseurl}}/assets/images/2024-05-30/forest.jpeg)
+
+![TODO]({{site.baseurl}}/assets/images/2024-05-30/dalton_hwy.jpeg)
+
+![TODO]({{site.baseurl}}/assets/images/2024-05-30/fairbanks.jpeg)
+
+![TODO]({{site.baseurl}}/assets/images/2024-05-30/trucks.jpeg)
+
+![TODO]({{site.baseurl}}/assets/images/2024-05-30/yukon.jpeg)
+
+![TODO]({{site.baseurl}}/assets/images/2024-05-30/mosquito.jpeg)
+
+![TODO]({{site.baseurl}}/assets/images/2024-05-30/push.jpeg)
+
+![TODO]({{site.baseurl}}/assets/images/2024-05-30/flowers.jpeg)
+
