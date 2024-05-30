@@ -28,19 +28,18 @@ We look forward to our stay in the cabin and spend most of our time organizing o
 
 We set off with light bikes, Uta and Bernie will bring our stuff later that day, and we breeze through the last 56 miles of the biking section, which follow a long valley deep into the mountains. We are not biking in the Brooks Range, it is gorgeous! Even though we stop many times to take photos, we make good and quick progress. In the evening, the odometer Ricardo installed in his bike shows that we have done 485 miles total on the bikes. That night, Salomé confesses to Ricardo that she has actually enjoyed the biking section, the section she dreaded the most. 
 
-![TODO]({{site.baseurl}}/assets/images/2024-05-30/fairbanks.jpeg)
+![Leaving Fairbanks we ride through Pioneer Park.]({{site.baseurl}}/assets/images/2024-05-30/fairbanks.jpeg)
 
-![TODO]({{site.baseurl}}/assets/images/2024-05-30/forest.jpeg)
+![We bike up and down many hills through large beautiful forests of black spruce and birch. We feel very small.]({{site.baseurl}}/assets/images/2024-05-30/forest.jpeg)
 
-![TODO]({{site.baseurl}}/assets/images/2024-05-30/dalton_hwy.jpeg)
+![After two days we reach the Dalton Highway. The paving (mostly) stops here.]({{site.baseurl}}/assets/images/2024-05-30/dalton_hwy.jpeg)
 
-![TODO]({{site.baseurl}}/assets/images/2024-05-30/trucks.jpeg)
+![We stop to admire the beautiful Yukon River before heading to Yukon Camp for a burger.]({{site.baseurl}}/assets/images/2024-05-30/yukon.jpeg)
 
-![TODO]({{site.baseurl}}/assets/images/2024-05-30/yukon.jpeg)
+![The mosquitoes were plentiful, biting us where they could, even on our scalp. We wore headnets and gloves all the time, even when biking.]({{site.baseurl}}/assets/images/2024-05-30/mosquito.jpeg)
 
-![TODO]({{site.baseurl}}/assets/images/2024-05-30/mosquito.jpeg)
+![To save energy, Salomé often pushed her bike up the steep hills while Ricardo patiently waited for her.]({{site.baseurl}}/assets/images/2024-05-30/push.jpeg)
 
-![TODO]({{site.baseurl}}/assets/images/2024-05-30/push.jpeg)
+![As we got closer to the Brooks Range, Sweet Vetch was often growing along the road.]({{site.baseurl}}/assets/images/2024-05-30/flowers.jpeg)
 
-![TODO]({{site.baseurl}}/assets/images/2024-05-30/flowers.jpeg)
-
+![On the Dalton Highway there are mostly large trucks, supplying the oil field in Prudhoe Bay. Cars are rare, nearly as rare as bikes.]({{site.baseurl}}/assets/images/2024-05-30/trucks.jpeg)
