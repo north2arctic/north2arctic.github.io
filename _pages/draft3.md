@@ -34,8 +34,6 @@ We set off with light bikes, Uta and Bernie will bring our stuff later that day,
 
 ![TODO]({{site.baseurl}}/assets/images/2024-05-30/dalton_hwy.jpeg)
 
-![TODO]({{site.baseurl}}/assets/images/2024-05-30/fairbanks.jpeg)
-
 ![TODO]({{site.baseurl}}/assets/images/2024-05-30/trucks.jpeg)
 
 ![TODO]({{site.baseurl}}/assets/images/2024-05-30/yukon.jpeg)
