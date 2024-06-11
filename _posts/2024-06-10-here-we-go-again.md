@@ -1,5 +1,5 @@
 ---
-permalink: /draft2/
+permalink: /here-we-go-again/
 title: Here we go again
 layout: single
 author_profile: true
