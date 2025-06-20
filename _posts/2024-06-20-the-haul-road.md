@@ -3,7 +3,7 @@ permalink: /the-haul-road/
 title: The Haul Road
 layout: single
 author_profile: true
-published: false
+published: true
 ---
 
 The next morning, we gorge ourselves on the breakfast buffet at the hotel, and Salomé goes back to bed. She is still exhausted from the previous day. When we finally leave the hotel, it is noon. Leaving Fairbanks is unpleasant on busy roads. As soon as we leave the city behind us, we bike on quiet roads through forest, it is pleasant. But the many hills we bike up and down tire us, and we set up camp before biking the full 45 mile daily goal in a pullout. The next day is very similar, more up and downs through birch and black spruce forests. Mosquitoes are ever present, and on the slow uphills we have to wear rain gear, head nets, and gloves to protect ourselves from them, massively overheating. It is beautiful, miles and miles through untouched forest (apart from the road). We feel small. Salomé struggles more and more with the uphills and begins to push the bike up the steepest sections to save energy. The last mile of the day we reach the Dalton Highway, also called the Haul Road. And it is where the pavement (mostly) ends. The road is bumpy, and our progress is even slower. We camp next to the iconic sign of the Dalton Highway. 
